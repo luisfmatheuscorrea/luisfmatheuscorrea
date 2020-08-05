@@ -5,7 +5,7 @@
 
 ## Sobre Mim | About Me 😃
 - 📫 Cursando | Studying: Ciência da Computação | Computer Science
-- 
+-  Front-end Developer and Fullstack Developer
 
 ## Ferramentas | Skills
 
