@@ -17,8 +17,6 @@ Front-end Developer | ReactJS - React Native - Flutter - NextJS
   <a href="https://www.linkedin.com/in/luís-fernando-matheus-corrêa-5764191a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   <a href="https://github.com/luisfmatheuscorrea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfmatheuscorrea&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfmatheuscorrea&layout=compact&langs_count=7&theme=github_dark&border_radius=12"/>
 </div>
   
   ##
