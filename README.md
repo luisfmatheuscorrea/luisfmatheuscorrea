@@ -18,12 +18,4 @@ Front-end Developer | ReactJS - React Native - Flutter - NextJS
  
   <a href="https://github.com/luisfmatheuscorrea">
 </div>
-  
-  ##
- 
-<div> 
- 
-  ![Snake animation](https://github.com/luisfmatheuscorrea/luisfmatheuscorrea/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
